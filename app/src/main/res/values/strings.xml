@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Interactive Story</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+    <string name="blank_string"/>
+    <string name="friend">Friend</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
